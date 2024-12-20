@@ -25,7 +25,7 @@ The Retail Data provide an historical sales data for 45 stores located in differ
 4. **PDF Document** with data Business Report Analysis.
 
 ## Team Members
-- Paola
-- Ginosca
-- Natanael
+- Paola Rivera
+- Ginosca Alejandro
+- Natanael Santiago
 - Javier Dastas
