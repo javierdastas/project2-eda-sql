@@ -1,3 +1,24 @@
+-- Which store has the highest average weekly sales?
+SELECT Store, AVG(Weekly_Sales) AS Average_Weekly_Sales
+FROM Sales
+GROUP BY Store
+ORDER BY Average_Weekly_Sales DESC
+LIMIT 5;
+
+-- What is the average sales trend by month?
+SELECT MONTH(DATE) AS Month, AVG(Weekly_Sales) AS Average_Monthly_Sales
+FROM sales
+GROUP BY Month
+ORDER BY Month;
+
+-- Which weeks of the year have the highest average sales?
+SELECT WEEK(Date) AS Week, AVG(Weekly_Sales) AS Average_Weekly_Sales
+FROM sales
+GROUP BY WEEK
+ORDER BY Average_Weekly_Sales DESC
+LIMIT 5;
+
+
 -- Calculate average weekly sales for holiday and non-holiday weeks
     SELECT IsHoliday,
            AVG(Weekly_Sales) AS Avg_Weekly_Sales
