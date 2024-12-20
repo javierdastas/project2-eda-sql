@@ -1,4 +1,5 @@
-# Notebooks for Data Analysis Project
+# Project 2 Business Challenge: EDA and SQL
+# - Notebooks
 
 ## Overview
 
