@@ -1,5 +1,4 @@
-# Project 2 Business Challenge: EDA and SQL
-# - Python Code
+# Project 2 Business Challenge: EDA and SQL - Python Code
 
 ## Overview
 

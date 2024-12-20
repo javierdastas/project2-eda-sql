@@ -1,5 +1,4 @@
-# Project 2 Business Challenge: EDA and SQL
-# - Notebooks
+# Project 2 Business Challenge: EDA and SQL - Notebooks
 
 ## Overview
 
