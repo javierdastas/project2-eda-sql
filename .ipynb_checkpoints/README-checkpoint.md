@@ -1,16 +1,16 @@
 # Project 2 - Business Challenge: EDA and SQL
 In this project you will experience doing an analysis using both Python and SQL to obtain the final result, by exploring each tool's behavior.
 
-## Team Members
-- Paola
-- Ginosca
-- Natanael
-- Javier Dastas
-
 ## Introduction
 
 A data project lifecycle has many phases, rather than being just an isolated analysis in a single tool.
 In this project you will experience doing an analysis using both Python and SQL to obtain the final result, by exploring each tool's behavior.
+
+## Project Team
+- Paola
+- Ginosca
+- Natanael
+- Javier Dastas
 
 ## Project Overview
 
