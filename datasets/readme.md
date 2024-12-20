@@ -1,4 +1,4 @@
-# Datasets Details
+# Project 2 Business Challenge: EDA and SQL - Datasets Details
 
 ## Overview
 
