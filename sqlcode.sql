@@ -69,3 +69,27 @@ ORDER BY avg_weekly_sales DESC;
             f.Date >= '2011-11-01'
     ) AS MarkDownTable
     GROUP BY YearMonth
+
+
+/*  Question 4.1: Popular Departments
+	Which departments have the highest total sales across all stores?
+*/
+SELECT  
+    dept AS Department, 
+    sum(Weekly_Sales) AS TotalSales
+FROM 
+    stores s 
+    INNER JOIN sales ON s.Store = sales.Store
+GROUP BY dept
+ORDER BY TotalSales desc;
+
+
+/*  Question 4.2: Fuel Price Comparison:
+    How does the price of fuel (Fuel_Price) affect average sales per store?
+*/
+SELECT fuel_price, AVG(weekly_sales)
+FROM 
+    features f 
+    JOIN sales ON (sales.date, sales.store) = (f.date, f.store) 
+GROUP BY fuel_price
+ORDER BY Fuel_Price;
