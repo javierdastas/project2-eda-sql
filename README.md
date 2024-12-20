@@ -6,7 +6,7 @@ In this project you will experience doing an analysis using both Python and SQL 
 A data project lifecycle has many phases, rather than being just an isolated analysis in a single tool.
 In this project you will experience doing an analysis using both Python and SQL to obtain the final result, by exploring each tool's behavior.
 
-## Project Team
+## Team Members
 - Paola
 - Ginosca
 - Natanael
