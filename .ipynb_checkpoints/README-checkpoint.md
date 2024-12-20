@@ -6,12 +6,6 @@ In this project you will experience doing an analysis using both Python and SQL 
 A data project lifecycle has many phases, rather than being just an isolated analysis in a single tool.
 In this project you will experience doing an analysis using both Python and SQL to obtain the final result, by exploring each tool's behavior.
 
-## Team Members
-- Paola
-- Ginosca
-- Natanael
-- Javier Dastas
-
 ## Project Overview
 
 ### Topic
@@ -30,3 +24,8 @@ The Retail Data provide an historical sales data for 45 stores located in differ
  - Business questions and SQL query (1 slide per question with a print screen of the query and the answer is enough)
 4. **PDF Document** with data Business Report Analysis.
 
+## Team Members
+- Paola
+- Ginosca
+- Natanael
+- Javier Dastas
